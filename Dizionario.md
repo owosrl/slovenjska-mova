@@ -20,7 +20,7 @@ Slovarik / Словарік
 #### Ğ Ѓ.
 #### H Г.
 *	Hovoryt | Говорит : To speak
-*	Hoćyt | Гочит : To want -- Synonims: Iskat | Іскат
+*	Hoćyt | Гочит : To want >> Synonims: Iskat | Іскат
 #### I І.
 *	Idyt | Ідит : To go
 *	Informacĭa | Інформатцїа : Information
@@ -29,8 +29,7 @@ Slovarik / Словарік
 *	Imat | Імат : To have
 *	Ime | Іме : Name
 #### Ĭ Ї.
-*	Ĭĕzyk | Їѣзик : Language
-Synonims: Mova | Мова
+*	Ĭĕzyk | Їѣзик : Language >> Synonims: Mova | Мова
 #### Y И.
 #### K К.
 *	Klavĭatŭra | Клавїатъра : Keyboard
@@ -38,7 +37,7 @@ Synonims: Mova | Мова
 *	Lĭubyt | Лїубит : To love
 #### Ł Ў.
 #### M М.
-*	Mova | Мова : Language -- Synomims: Jĕzyk | Јѣзик
+*	Mova | Мова : Language >> Synomims: Jĕzyk | Јѣзик
 *	Mynoł | Миноў : Past
 #### N Н.
 *	Neśvŭrśeno | Нешвършено : Unfinished (not completed)
