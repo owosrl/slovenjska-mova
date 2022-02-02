@@ -74,6 +74,7 @@ Slovarik / Словарік
 *	Telefon | Телефон : Telefon
 *	Cel | Цел : Purpose
 #### U У.
+*   Ućat | Учат : To learn
 #### V В.
 *	Vrĭema | Врїема : Time		
 *	Većir | Вечір : Evening
