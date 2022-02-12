@@ -6,6 +6,8 @@ Slovarik / Словарік
 #### C Ц.
 *	Car | Цар : Emperor
 *	Carstvo | Царство : Empire
+*	Cel | Цел : Purpose
+*   Sebyt | Себит: To suicide
 #### Ć Ч.
 *	Ćĭetyri | Чїетирі : Four
 #### D Д.
@@ -15,6 +17,7 @@ Slovarik / Словарік
 *	 Domŭ | Домъ : House
 #### E Е.
 *	Edno | Едно : One
+*   Ebat | Ебат : To fuck
 #### F Ф.
 #### G Џ.
 #### Ğ Ѓ.
@@ -33,6 +36,7 @@ Slovarik / Словарік
 #### Y И.
 #### K К.
 *	Klavĭatŭra | Клавїатъра : Keyboard
+*   Kaćat | Качат : To say
 #### L Л.
 *	Lĭubyt | Лїубит : To love
 #### Ł Ў.
@@ -62,6 +66,7 @@ Slovarik / Словарік
 *	Slava | Слава : Glory
 *	Slova | Слова : Word 
 *	Słŭnce | Сўънце : Sun
+*   Svobŭda | Свобъда : Freedom
 *	Slovarik | Словарік : Dictionary
 *	Stranica | Страніца : Page
 *	Sĭem | Сїем : Seven
@@ -72,15 +77,20 @@ Slovarik / Словарік
 #### T Т.
 *	Tri | Трі : Three
 *	Telefon | Телефон : Telefon
-*	Cel | Цел : Purpose
+*   Trźyśkĭat | Тржишкїат : To cum
 #### U У.
 *   Ućat | Учат : To learn
+*   Ubyt | Убит : To kill
 #### V В.
 *	Vrĭema | Врїема : Time		
 *	Većir | Вечір : Evening
 *	Viźdyt | Віждит : To see
 *	Vasiłĭa | Васіўїа : Great
 #### Ź Ж.
+*   Źpolđovat | Жполђоват : To use
+*   Źazpolđovat | Жазполђоват : To abuse
+*   Źaĕbat | Жаѣбат : To fuck (destructing) / To rape
+*   Źabyt | Жабит : To massacre (a person)
 #### Đ Ђ.
 *	Đyr | Ђир : Zero
 *	Đĭen | Ђїен : Day
@@ -88,4 +98,5 @@ Slovarik / Словарік
 #### Z З.
 *	Zĕmlĭa | Зѣмлїа : Earth
 *	Zvatyt | Зватит : To call
-
+*   Znać | Знач : Sign, Symbol
+*   Źatrźyśkĭat | Жатржишкїат : To fucking cum
