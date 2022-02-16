@@ -30,7 +30,7 @@
 *	Hoćyt | Гочꙑт : To want >> Synonims: Iskat | Іскат
 *   Hłavna | Гўавна : Main
 *   Nedęlĭa | Недѣльа : Sunday
-*   Hrŭdę | Грдъдѣ : November
+*   Hrŭdę | Гръдѣ : November
 #### I І.
 *	Idyt | Ідꙑт : To go
 *	Informacĭa | Інформатцьа : Information
@@ -61,7 +61,7 @@
 *	Naroda | Народа : People (of a nation)
 #### O О.
 *	Osŭm | Осъм : Eight
-*   Osnova | Основа
+*   Osnova | Основа : Basis
 #### P П.
 *	Pśedvariteł | Пшедварітеў : Preliminary (happens before)
 *	Pęt | Пѣt : Five
