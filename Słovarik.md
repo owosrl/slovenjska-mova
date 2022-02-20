@@ -32,8 +32,7 @@
 *   Hłavna | Гўавна : Main
 *   Nedęlĭa | Недѣлꙗ : Sunday
 *   Hrŭdę | Гръдѣ : November
-*   Hramatyka | Граматꙑка : Grammar
-*   Hoda | Года : Time, Year
+*   Hoda | Года : time, year
 #### I І.
 *	Idyt | Ідꙑт : To go
 *	Informacĭa | Інформатцꙗ : Information
