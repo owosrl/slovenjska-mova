@@ -10,12 +10,12 @@
 *	Cel | Цел : Purpose
 *   Sebyt | Себꙑт: To suicide
 #### Ć Ч.
-*	Ćĭetyri | Чьетꙑрі : Four
-*   Ćĭetvyrĭk | Чьетвꙑрьк : Thursday
+*	Ćĭetyri | Чѥтꙑрі : Four
+*   Ćĭetvyrĭk | Чѥтвꙑрьк : Thursday
 *   Ćervę | Червѣ : July
 #### D Д.
 *	 Dva | Два : Two
-*	 Dĭes | Дьес : Ten
+*	 Dĭes | Дѥс : Ten
 *	 Dobre | Добре : Good
 *	 Domŭ | Домъ : House
 #### E Е.
@@ -29,22 +29,22 @@
 *	Hovoryt | Говорꙑт : To speak
 *	Hoćyt | Гочꙑт : To want >> Synonims: Iskat | Іскат
 *   Hłavna | Гўавна : Main
-*   Nedęlĭa | Недѣльа : Sunday
+*   Nedęlĭa | Недѣлꙗ : Sunday
 *   Hrŭdę | Гръдѣ : November
 #### I І.
 *	Idyt | Ідꙑт : To go
-*	Informacĭa | Інформатцьа : Information
+*	Informacĭa | Інформатцꙗ : Information
 *	Iskat | Іскат : To want >> Synonims: Hoćyt | Гочꙑт
 *	Imat | Імат : To have
 *	Ime | Іме : Name
 *   Izǫk | Ізѧк : June
 #### Y ꙑ.
 #### K К.
-*	Klavĭatŭra | Клавьатъра : Keyboard
+*	Klavĭatŭra | Клавꙗтъра : Keyboard
 *   Kaćat | Качат : To say
 #### L Л.
-*	Lĭobyt | Льoбꙑт : To love
-*   Lĭoty | Льотꙑ : February
+*	Lĭobyt | Любꙑт : To love
+*   Lĭoty | Лютꙑ : February
 *   Lĭstǫpad | Льстѧпад : October
 #### Ł Ў.
 #### M М.
@@ -52,7 +52,7 @@
 *	Mynoł | Мꙑноў : Past
 #### N Н.
 *	Neśvŭrśeno | Нешвършено : Unfinished (not completed)
-*	Nastoĭac | Настоьац : Present
+*	Nastoĭac | Настоꙗц : Present
 *	Neopśedeł | Неопшедеў : Indefinite, indeterminate
 *	Nǫpysat | Нѧпꙑсат : To write
 *	Nova | Нова : New
@@ -65,7 +65,7 @@
 #### P П.
 *	Pśedvariteł | Пшедварітеў : Preliminary (happens before)
 *	Pęt | Пѣt : Five
-*	Producĭa | Продуцьа : Production
+*	Producĭa | Продуцꙗ : Production
 *	Prohram | Програм : Program
 *	Povykvat | Повꙑкат : To call
 *	Pratyć | Пратꙑч : Pratic
@@ -79,7 +79,7 @@
 *   Svobŭda | Свобъда : Freedom
 *	Slovarik | Словарік : Dictionary
 *	Stranica | Страніца : Page
-*	Sĭem | Сьем : Seven
+*	Sĭem | Сѥм : Seven
 *	Sŭśtestyt | Съштестꙑт : To exist
 *   Sǫdet | Сѧдет : Neighbour
 *   Srędŭ | Срѣдъ : Wednesday
@@ -93,16 +93,16 @@
 #### T Т.
 *	Tri | Трі : Three
 *	Telefon | Телефон : Telefon
-*   Trźyśkĭat | Тржꙑшкьат : To cum
+*   Trźyśkĭat | Тржꙑшкꙗт : To cum
 *   Tręvin | Трѣвін : May
 #### U У.
 *   Ućat | Учат : To learn
 *   Ubyt | Убꙑт : To kill
 #### V В.
-*	Vrĭema | Врьема : Time		
+*	Vrĭema | Врѥма : Time		
 *	Većir | Вечір : Evening
 *	Viźdyt | Віждꙑт : To see
-*	Vasiłĭa | Васіўьа : Great
+*	Vasiłĭa | Васіўꙗ : Great
 *   Vęka | Вѣка : Branch
 *   Vŭlaryt | Въларꙑт : To influence
 *   Vŭtorĭk | Въторьк : Tuesday
@@ -115,10 +115,10 @@
 *   Źyvę | Жꙑвѣ : August
 #### Đ Ђ.
 *	Đyr | Ђꙑр : Zero
-*	Đĭen | Ђьен : Day
+*	Đĭen | Ђѥн : Day
 *	Đivćyna | Ђівчꙑна : Girl
 #### Z З.
-*	Zęmlĭa | Зѣмльа : Earth
+*	Zęmlĭa | Зѣмлꙗ : Earth
 *	Zvatyt | Зватꙑт : To call
 *   Znać | Знач : Sign, Symbol
-*   Źatrźyśkĭat | Жатржꙑшкьат : To fucking cum
+*   Źatrźyśkĭat | Жатржꙑшкꙗт : To fucking cum
