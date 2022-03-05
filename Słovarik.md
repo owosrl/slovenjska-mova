@@ -1,62 +1,62 @@
 # Słovarik | Сўоварік | Ⱄⰺⱁⰲⰰⱃⰻⰽ
 #### A А.
 #### B Б.
-*	Bŭdysta | Бъдꙑста : Future
-*	Byt | Бꙑт : To be
+*	Bŭdysta | Бъдиста : Future
+*	Byt | Бит : To be
 *   Brśęzin | Бршѣзін : April
 #### C Ц.
 *	Car | Цар : Emperor
 *	Carstvo | Царство : Empire
 *	Cel | Цел : Purpose
-*   Sebyt | Себꙑт: To suicide
+*   Sebyt | Себит: To suicide
 #### Ć Ч.
-*	Ćĭetyri | Чѥтꙑрі : Four
-*   Ćĭetvyrĭk | Чѥтвꙑрьк : Thursday
+*	Ćjetyri | Чєтирі : Four
+*   Ćjetvyrjk | Чєтвирьк : Thursday
 *   Ćervę | Червѣ : July
 #### D Д.
 *	 Dva | Два : Two
-*	 Dĭes | Дѥс : Ten
+*	 Djes | Дєс : Ten
 *	 Dobre | Добре : Good
 *	 Domŭ | Домъ : House
-*    Doźyt | Дожꙑт : To arrive
+*    Doźyt | Дожит : To arrive
 #### E Е.
 *	Edno | Едно : One
 *   Ebat | Ебат : To fuck
 #### Ę Ѣ
-*	Ęzyk | Ѣзꙑк : Language >> Synonims: Mova | Мова
+*	Ęzyk | Ѣзик : Language >> Synonims: Mova | Мова
 #### F Ф.
 #### G Ѓ.
 #### H Г.
-*	Hovoryt | Говорꙑт : To speak
-*	Hoćyt | Гочꙑт : To want >> Synonims: Iskat | Іскат
+*	Hovoryt | Говорит : To speak
+*	Hoćyt | Гочит : To want >> Synonims: Iskat | Іскат
 *   Hłavna | Гўавна : Main
-*   Nedęlĭa | Недѣлꙗ : Sunday
+*   Nedęlja | Недѣлꙗ : Sunday
 *   Hrŭdę | Гръдѣ : November
 *   Hoda | Года : time, year
 #### I І.
-*	Idyt | Ідꙑт : To go
-*	Informacĭa | Інформатцꙗ : Information
-*	Iskat | Іскат : To want >> Synonims: Hoćyt | Гочꙑт
+*	Idyt | Ідит : To go
+*	Informacja | Інформатцꙗ : Information
+*	Iskat | Іскат : To want >> Synonims: Hoćyt | Гочит
 *	Imat | Імат : To have
 *	Ime | Іме : Name
-*   Izǫk | Ізѧк : June
-#### Y ꙑ.
+*   Iząk | Ізѧк : June
+#### Y и.
 #### K К.
-*	Klavĭatŭra | Клавꙗтъра : Keyboard
+*	Klavjatŭra | Клавꙗтъра : Keyboard
 *   Kaćat | Качат : To say
 #### L Л.
-*	Lĭobyt | Любꙑт : To love
-*   Lĭoty | Лютꙑ : February
-*   Lĭstǫpad | Льстѧпад : October
+*	Ljobyt | Любит : To love
+*   Ljoty | Люти : February
+*   Ljstąpad | Льстѧпад : October
 #### Ł Ў.
 #### M М.
-*	Mova | Мова : Language >> Synomims: ęzyk | ѣзꙑк
-*	Mynoł | Мꙑноў : Past
+*	Mova | Мова : Language >> Synomims: ęzyk | ѣзик
+*	Mynoł | Миноў : Past
 #### N Н.
 *	Neśvŭrśeno | Нешвършено : Unfinished (not completed)
-*	Nastoĭac | Настоꙗц : Present
+*	Nastojac | Настоꙗц : Present
 *	Neopśedeł | Неопшедеў : Indefinite, indeterminate
-*	Nǫpysat | Нѧпꙑсат : To write
+*	Nąpysat | Нѧписат : To write
 *	Nova | Нова : New
 *	Nŭvet | Нъвет : Nine
 *	Noć | Ноч : Night
@@ -67,10 +67,10 @@
 #### P П.
 *	Pśedvariteł | Пшедварітеў : Preliminary (happens before)
 *	Pęt | Пѣt : Five
-*	Producĭa | Продуцꙗ : Production
+*	Producja | Продуцꙗ : Production
 *	Prohram | Програм : Program
-*	Povykvat | Повꙑкат : To call
-*	Pratyć | Пратꙑч : Pratic
+*	Povykvat | Повикат : To call
+*	Pratyć | Пратич : Pratic
 *   Ponidęlŭk | Понідѣлък : Monday
 *   Pętica | Пѣтіца : Friday
 #### R Р.
@@ -81,13 +81,13 @@
 *   Svobŭda | Свобъда : Freedom
 *	Slovarik | Словарік : Dictionary
 *	Stranica | Страніца : Page
-*	Sĭem | Сѥм : Seven
-*	Sŭśtestyt | Съштестꙑт : To exist
-*   Sǫdet | Сѧдет : Neighbour
+*	Sjem | Сєм : Seven
+*	Sŭśtestyt | Съштестит : To exist
+*   Sądet | Сѧдет : Neighbour
 *   Srędŭ | Срѣдъ : Wednesday
-*   Sǫbŭta | Сѧбъта : Saturday
-*   Styćę | Стꙑчѣ : January
-*   Sokŭvyk | Сокъвꙑк : March
+*   Sąbŭta | Сѧбъта : Saturday
+*   Styćę | Стичѣ : January
+*   Sokŭvyk | Сокъвик : March
 *   Sam | Сам : Alone
 *   Stŭdę | Стъдѣ : December
 #### Ś Ш.
@@ -96,36 +96,36 @@
 #### T Т.
 *	Tri | Трі : Three
 *	Telefon | Телефон : Telefon
-*   Trźyśkĭat | Тржꙑшкꙗт : To cum
+*   Trźyśkjat | Тржишкꙗт : To cum
 *   Tręvin | Трѣвін : May
 #### U У.
 *   Ućat | Учат : To learn
-*   Ubyt | Убꙑт : To kill
+*   Ubyt | Убит : To kill
 #### V В.
-*	Vrĭema | Врѥма : Time >> Synomims: hoda | года
+*	Vrjema | Врєма : Time >> Synomims: hoda | года
 *	Većir | Вечір : Evening
-*	Viźdyt | Віждꙑт : To see
-*	Vasiłĭa | Васіўꙗ : Great
+*	Viźdyt | Віждит : To see
+*	Vasiłja | Васіўꙗ : Great
 *   Vęka | Вѣка : Branch
-*   Vŭlaryt | Въларꙑт : To influence
-*   Vŭtorĭk | Въторьк : Tuesday
+*   Vŭlaryt | Въларит : To influence
+*   Vŭtorjk | Въторьк : Tuesday
 *   Vrisię | Врісіѣ : September
 *   Vsehoda | Всегода: Ever
 #### Ź Ж.
 *   Źpolđovat | Жполђоват : To use
 *   Źazpolđovat | Жазполђоват : To abuse
 *   Źaębat | Жаѣбат : To fuck (destructing) / To rape
-*   Źabyt | Жабꙑт : To massacre (a person)
-*   Źyvę | Жꙑвѣ : August
-*   Źyt | Жꙑт : To go
+*   Źabyt | Жабит : To massacre (a person)
+*   Źyvę | Живѣ : August
+*   Źyt | Жит : To go
 #### Đ Ђ.
-*	Đyr | Ђꙑр : Zero
-*	Đĭen | Ђѥн : Day
-*	Đivćyna | Ђівчꙑна : Girl
+*	Đyr | Ђир : Zero
+*	Đjen | Ђєн : Day
+*	Đivćyna | Ђівчина : Girl
 #### Z З.
-*	Zęmlĭa | Зѣмлꙗ : Earth
-*	Zvatyt | Зватꙑт : To call
-*   Znayt | Знаꙑт : To know
+*	Zęmlja | Зѣмлꙗ : Earth
+*	Zvatyt | Зватит : To call
+*   Znayt | Знаит : To know
 *   Znać | Знач : Sign, Symbol
-*   Źatrźyśkĭat | Жатржꙑшкꙗт : To fucking cum
+*   Źatrźyśkjat | Жатржишкꙗт : To fucking cum
 *   Zavsehoda | Завсегода : Forever
