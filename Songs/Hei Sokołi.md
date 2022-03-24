@@ -26,7 +26,7 @@ za zełeny Ukrainy,
 iei da viełe nie poviźdu.
 
 Vina, vina, vina datja!
-i jak vmerja hodovaćęć,
+i jak umerja hodovaćęć,
 u zełeną Ukrainą,
 z meną ljobinąm đivćynąm.
 
@@ -59,6 +59,6 @@ z meną ljobinąm đivćynąm.
 єі да вєўе нє повіжду.
 
 Віна, віна, віна датꙗ!
-і ꙗк вмерꙗ годовачѣч,
+і ꙗк умерꙗ годовачѣч,
 у зеўенѧ Украінѧ,
 з менѧ любінѧм ђівчинѧм.
