@@ -1,27 +1,27 @@
 # Hei Sokołi
 
-Hei, tam kŭdaś z nad ćirnsko vodo,
-sil u konją, kozak mołoden.
-Płaća mołodną đivćyną,
-ika kozak z Ukrainąm.
+Hei, tam deś z nad ćirni vode,
+sil u konją, kozak mołodi.
+Płaća mołodą đivćyną,
+ida kozak z Ukrainąm.
 
 Hei! Hei! Hei, sokołi!
 Omijaćeć hori, lasi, dołi.
 Đvin, đvin, đvin đviniśki,
-Moy stepu źavronośku!
+Moy stepie źavronośkie!
 
 Hei! Hei! Hei, sokołi!
 Omijaćęć hori, lasi, dołi.
 Đvin, đvin, đvin đviniśki,
-Moy stepu đvin, đvin, đvin.
+Moy stepie đvin, đvin, đvin.
 
-Viełe đivćyną tam e u svit,
-le viełeźeite ve Ukrainą,
+Viełe đivćynęh e na svite,
+le viełeźeite ve Ukraina,
 tam mi serce ostavil,
 z meną ljobinąm đivćynąm.
 
 Źal, źal za đivćyny,
-za zełeny Ukrainy,
+za zełenei Ukrainy,
 źal, źal, serce płaća,
 iei da viełe nie poviźdu.
 
