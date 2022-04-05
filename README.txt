@@ -1,7 +1,6 @@
-<div style="text-align: center; padding: 15px;">
-    <h1 style="border-bottom: none; font-size: 300%; font-weight: 700;">Slovęnjska Mova</h1>
-    
-![](https://cloud.hypercute.eu/index.php/s/AKqC5CfboFg5rSP/download/logo.png)
+<div align="center">
+    <h1 style="border-bottom: none;">Slovęnjska Mova</h1>
+    <img src="https://cloud.hypercute.eu/index.php/s/AKqC5CfboFg5rSP/download/logo.png)"></img>
 </div>
 
 
