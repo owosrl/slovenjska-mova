@@ -1,7 +1,7 @@
-# Slovęnjska Mova
-{: .text-center}
-![](https://cloud.hypercute.eu/index.php/s/AKqC5CfboFg5rSP/download/logo.png)
-{: .text-center}
+<div align="center">
+    <h1>Slovęnjska Mova</h1>
+    <img src="https://cloud.hypercute.eu/index.php/s/AKqC5CfboFg5rSP/download/logo.png">
+</div>
 
 
 La **lingua słovenjska** (_/s'wovɛ̃:ɲska 'mo:wa/_) è una lingua slava occidentale strutturata che deve la sua struttura morfologica al ceppo delle lingue slave occidentali e meridionali, la fonetica e l‘ortografia dell’antico slavo ecclesiastico da cui prende il nome di Slověnĭskŭ Językŭ (Slovenjskv Językv) o Językŭ Blŭgarsĭskŭ (Językv Błgarjskv) e un lessico commune slavo.  
