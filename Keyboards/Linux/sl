@@ -1,0 +1,83 @@
+// Slovęnjska mova alphabet layout
+
+default partial alphanumeric_keys
+xkb_symbols "basic" {
+
+    name[Group1]="Slovęnjska Mova (Slovęnjski)";
+
+    key <AE01>	{ [         1,     exclam,  onesuperior,   exclamdown ]	};
+    key <AE02>	{ [         2,   quotedbl,           at,    oneeighth ]	};
+    key <AE03>	{ [         3, numbersign, threesuperior,    sterling ]	};
+    key <AE04>	{ [         4,     dollar,   onequarter,       dollar ]	};
+    key <AE05>	{ [         5,    percent,      onehalf, threeeighths ]	};
+    key <AE06>	{ [         6,  ampersand,      notsign,  fiveeighths ] };
+    key <AE07>	{ [         7,      slash,    braceleft, seveneighths ]	};
+    key <AE08>	{ [         8,  parenleft,  bracketleft,    trademark ]	};
+    key <AE09>	{ [         9, parenright, bracketright,    plusminus ]	};
+    key <AE10>	{ [         0,      equal,   braceright,       degree ]	};
+    key <AE11>	{ [     minus, underscore,    backslash, questiondown ]	};
+    key <AE12>	{ [     equal,       plus, dead_cedilla,  dead_ogonek ]	};
+
+    key <AD01>	{ [    cacute,     Cacute,           at,  Greek_OMEGA ]	};
+    key <AD02>	{ [   lstroke,    Lstroke,        U017F,      section ]	};
+    key <AD03>	{ [         e,          E,        eogon,        Eogon ]	};
+    key <AD04>	{ [         r,          R,    paragraph,   registered ]	};
+    key <AD05>	{ [         t,          T,       tslash,       Tslash ]	};
+    key <AD06>	{ [         y,          Y,    leftarrow,          yen ]	};
+    key <AD07>	{ [         u,          U,    downarrow,      uparrow ]	};
+    key <AD08>	{ [         i,          I,   rightarrow,     idotless ]	};
+    key <AD09>	{ [         o,          O,       oslash,     Ooblique ]	};
+    key <AD10>	{ [         p,          P,        thorn,        THORN ]	};
+    key <AD11>	{ [bracketleft,  braceleft, dead_diaeresis, dead_abovering ] };
+    key <AD12>	{ [bracketright, braceright, dead_tilde,  dead_macron ]	};
+
+    key <AC01>	{ [         a,          A,       aogon,         Aogon ]	};
+    key <AC02>	{ [         s,          S,      sacute,        Sacute ]	};
+    key <AC03>	{ [         d,          D,      dstrok,        Dstrok ]	};
+    key <AC04>	{ [         f,          F,      dstroke,  ordfeminine ]	};
+    key <AC05>	{ [         g,          G,          eng,          ENG ]	};
+    key <AC06>	{ [         h,          H,      hstroke,      Hstroke ]	};
+    key <AC07>	{ [         j,          J,    dead_hook,    dead_horn ] };
+    key <AC08>	{ [         k,          K,          kra,    ampersand ]	};
+    key <AC09>	{ [         l,          L,      lstroke,      Lstroke ]	};
+    key <AC10>	{ [ semicolon,    colon, dead_acute, dead_doubleacute ]	};
+    key <AC11>	{ [apostrophe, quotedbl, dead_circumflex,  dead_caron ]	};
+    key <TLDE>	{ [     grave, asciitilde,      notsign,      notsign ]	};
+
+    key <BKSL>	{ [ backslash,        bar,   dead_grave,   dead_breve ]	};
+    key <AB01>	{ [         z,          Z,       zacute,       Zacute ]	};
+    key <AB02>	{ [    ubreve,     Ubreve, guillemotright,    greater ]	};
+    key <AB03>	{ [         c,          C,         cent,    copyright ]	};
+    key <AB04>	{ [         v,          V,   doublelowquotemark, singlelowquotemark ]	};
+    key <AB05>	{ [         b,          B,  leftdoublequotemark, leftsinglequotemark ] };
+    key <AB06>	{ [         n,          N,       nacute,       Nacute ]	};
+    key <AB07>	{ [         m,          M,           mu,    masculine ]	};
+    key <AB08>	{ [     comma,  semicolon,          U2022,     multiply ]	}; // bullet
+    key <AB09>	{ [    period,      colon, periodcentered,     division ]	};
+    key <AB10>	{ [     slash, underscore, dead_belowdot, dead_abovedot ] };
+};
+
+// Added 2022.04.10 by Polina Avrami
+// See https://git.hypercute.eu/owosrl/slovenjska-mova for a description.
+// Used by sl
+//
+// ┌─────┐
+// │ 2 4 │   2 = Shift,  4 = Level3 + Shift
+// │ 1 3 │   1 = Normal, 3 = Level3
+// └─────┘
+// ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓
+// │ ~ ~ │ ! ' │ " " │ # ˝ │ $ ¸ │ % ˇ │ & ^ │ / ˘ │ (  ̇ │ )  ̣ │ = ° │ _ ¯ │ + ˛ ┃ ⌫ Back- ┃
+// │ ` ` │ 1 ¡ │ 2 © │ 3 • │ 4 § │ 5 € │ 6 ¢ │ 7 − │ 8 × │ 9 ÷ │ 0 ° │ - – │ = — ┃  space  ┃
+// ┢━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━┳━━━━━━━┫
+// ┃       ┃ Ć   │ Ł   │ E Ę │ R   │ T   │ Y   │ U   │ I   │ O   │ P   │ { « │ } » ┃ Enter ┃
+// ┃Tab ↹  ┃ ć   │ ł   │ e ę │ r   │ t   │ y   │ u   │ i   │ o   │ p   │ [ ‹ │ ] › ┃   ⏎   ┃
+// ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┺┓      ┃
+// ┃        ┃ A   │ S Ś │ D   │ F   │ G   │ H   │ J   │ K   │ L   │ : “ │ " ” │ | ¶ ┃      ┃
+// ┃Caps ⇬  ┃ a   │ s ś │ d   │ f   │ g   │ h   │ j   │ k   │ l   │ ; ‘ │ ' ’ │ \   ┃      ┃
+// ┣━━━━━━━━┹────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┲┷━━━━━┻━━━━━━┫
+// ┃             │ Z Ź │ Ŭ   │ C   │ V   │ B   │ N Ń │ M   │ ; „ │ : · │ _ ¿ ┃             ┃
+// ┃Shift ⇧      │ z ź │ ŭ   │ c   │ v   │ b   │ n ń │ m   │ , ‚ │ . … │ - ⁄ ┃Shift ⇧      ┃
+// ┣━━━━━━━┳━━━━━┷━┳━━━┷━━━┱─┴─────┴─────┴─────┴─────┴─────┴───┲━┷━━━━━╈━━━━━┻━┳━━━━━━━┳━━━┛
+// ┃       ┃       ┃       ┃ ␣                               ⍽ ┃       ┃       ┃       ┃
+// ┃Ctrl   ┃Meta   ┃Alt    ┃ ␣           Space               ⍽ ┃AltGr ⇮┃Menu   ┃Ctrl   ┃
+// ┗━━━━━━━┻━━━━━━━┻━━━━━━━┹───────────────────────────────────┺━━━━━━━┻━━━━━━━┻━━━━━━━┛

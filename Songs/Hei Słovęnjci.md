@@ -1,39 +1,11 @@
 # Hei Słovenjci
 
 Heі Słovęnjci, śće naśą
-movą słovnją źit
+słovenjska retj źije
 pŭky naśŭ viernŭ sercŭ
-za naśje narody bit
+za naśei narody bije
 
-Źit, źit, duh słovęnjskih,
-ge źit za vieku,
-: Hrim i pałko, marskŭh vaśŭ
-  proti nam se hnevih! (x2)
-
-
-# Геі Сўовѣньці
-
-Геі Сўовѣньці, шче нашѧ
-мовѧ сўовнѩ жіт
-пъки нашъ вєрнъ серцъ
-за нашє народи біт
-
-Жіт, жіт, дух сўовѣньскіх,
-ѓе жіт за вєку,
-: Грім і паўко, марскъх вашъ
-  проті нам се гневіх! (x2)
-
-# Ⰳⰵⰻ Ⱄⰺⱁⰲⱔⱀⰻⱌⰻ
-
-Ⰳⰵⰻ Ⱄⰺⱁⰲⱔⱀⰻⱌⰻ, ⱎⱍⰵ ⱀⰰⱘ
-ⰿⱁⰲⱘ ⱄⰺⱁⰲⱀⱙ ⰶⰻⱅ
-ⱂⱏⰽⰾ ⱀⰰⱎⱏ ⰲⰦⱃⱀⱏ ⱄⰵⱃⱌⱏ
-ⰸⰰ ⱀⰰⱎⰦ ⱀⰰⱃⱁⰴⰾ ⰱⰻⱅ
-
-Ⰶⰻⱅ, ⰶⰻⱅ, ⰴⱆⱈ ⱄⰺⱁⰲⱔⱀⰻⱄⰽⰻⱈ,
-ⰼⰵ ⰶⰻⱅ ⰸⰰ ⰲⰦⰽⱆ,
-: Ⰳⱃⰻⰿ ⰻ ⱂⰰⰺⰽⱁ, ⰿⰰⱃⱄⰽⱏⱈ ⰲⰰⱎⱏ
-  ⱂⱃⱁⱅⰻ ⱀⰰⰿ ⱄⰵ ⰳⱀⰵⰲⰻⱈ! (x2)
-
-
-
+Źije, źije, duh słovęnjskym,
+źide dla vieku,
+: Hrim i pałko, marnyh vaśŭ
+  proti nam są hnęvi! (x2)
