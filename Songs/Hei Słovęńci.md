@@ -12,10 +12,10 @@ za naśei narody bije.
 
 Języku dar Boh vĕriłe się nam,
 Boh naś hospodare,
-ii moźe nam to zatemoie sŭdyrać
+i moźe nam to zatemoie sŭdyrać
 niśo na ją ve svĕt;
 
 i puskaś će tam est koljko liudi
 toljko ćąrti ve svet.
 : Boh e s nami: kto proti nam
-teho za Perunu będe dolał (x2)
+teho za Perunu nadolade (x2)
